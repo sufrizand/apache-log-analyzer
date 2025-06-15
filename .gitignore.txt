@@ -1,0 +1,15 @@
+# Don't commit API keys or secrets
+.env
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore output files
+output/
+*.csv
+*.png
+*.html
+
+# Ignore AbuseIPDB cache file (optional)
+checked_ips.json

@@ -1,0 +1,1502 @@
+{
+  "66.249.73.135": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Google LLC",
+    "domain": "google.com"
+  },
+  "66.249.73.185": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Google LLC",
+    "domain": "google.com"
+  },
+  "123.125.71.35": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "YBV",
+    "domain": "baidu.com"
+  },
+  "207.241.237.225": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Internet Archive",
+    "domain": "archive.org"
+  },
+  "207.241.237.220": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Internet Archive",
+    "domain": "archive.org"
+  },
+  "207.241.237.227": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Internet Archive",
+    "domain": "archive.org"
+  },
+  "207.241.237.228": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Internet Archive",
+    "domain": "archive.org"
+  },
+  "207.241.237.101": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Internet Archive",
+    "domain": "archive.org"
+  },
+  "218.30.103.62": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "CHINANET IDC center",
+    "domain": "bjtelecom.net"
+  },
+  "174.37.205.76": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "IBM Cloud",
+    "domain": "ibm.com"
+  },
+  "123.125.71.117": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "YBV",
+    "domain": "baidu.com"
+  },
+  "220.181.108.153": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "CHINANET Beijing province network",
+    "domain": "bjtelecom.net"
+  },
+  "5.102.173.71": {
+    "abuse_score": 0,
+    "country": "GB",
+    "isp": "Mojeek",
+    "domain": "mojeek.com"
+  },
+  "208.91.156.11": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Hulu, LLC",
+    "domain": "hulu.com"
+  },
+  "220.241.45.142": {
+    "abuse_score": 0,
+    "country": "HK",
+    "isp": "Hong Kong Telecommunications (HKT) Limited Business Internet",
+    "domain": "imsbiz.com"
+  },
+  "178.255.215.83": {
+    "abuse_score": 0,
+    "country": "FR",
+    "isp": "DASSAULT SYSTEMES SE",
+    "domain": "3ds.com"
+  },
+  "100.43.83.137": {
+    "abuse_score": 0,
+    "country": "RS",
+    "isp": "Edge Technology Plus d.o.o. Beograd",
+    "domain": "edtech.rs"
+  },
+  "94.228.34.233": {
+    "abuse_score": 0,
+    "country": "GB",
+    "isp": "4D Data Centres Limited",
+    "domain": "redcentricplc.com"
+  },
+  "207.241.237.102": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Internet Archive",
+    "domain": "archive.org"
+  },
+  "180.76.5.27": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "173.192.238.41": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "IBM Cloud",
+    "domain": "ibm.com"
+  },
+  "207.241.237.223": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Internet Archive",
+    "domain": "archive.org"
+  },
+  "199.16.156.126": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Twitter, Inc.",
+    "domain": "twitter.com"
+  },
+  "199.16.156.125": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Twitter, Inc.",
+    "domain": "twitter.com"
+  },
+  "207.241.237.226": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Internet Archive",
+    "domain": "archive.org"
+  },
+  "207.241.237.104": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Internet Archive",
+    "domain": "archive.org"
+  },
+  "180.76.6.156": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "217.69.133.70": {
+    "abuse_score": 0,
+    "country": "RU",
+    "isp": "VK Services",
+    "domain": "mail.ru"
+  },
+  "217.69.133.237": {
+    "abuse_score": 0,
+    "country": "RU",
+    "isp": "VK Services",
+    "domain": "mail.ru"
+  },
+  "65.55.213.79": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "65.55.213.73": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "65.55.213.74": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "217.212.224.183": {
+    "abuse_score": 0,
+    "country": "SE",
+    "isp": "Telia Company AB",
+    "domain": "teliacompany.com"
+  },
+  "217.212.224.181": {
+    "abuse_score": 0,
+    "country": "SE",
+    "isp": "Telia Company AB",
+    "domain": "teliacompany.com"
+  },
+  "173.192.238.58": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "IBM Cloud",
+    "domain": "ibm.com"
+  },
+  "207.241.237.221": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Internet Archive",
+    "domain": "archive.org"
+  },
+  "180.76.6.48": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "119.63.196.16": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Baidu Japan Inc.",
+    "domain": "baidu.jp"
+  },
+  "157.55.32.190": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "180.76.5.149": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "144.76.95.39": {
+    "abuse_score": 0,
+    "country": "DE",
+    "isp": "Hetzner Online GmbH",
+    "domain": "hetzner.com"
+  },
+  "207.241.237.224": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Internet Archive",
+    "domain": "archive.org"
+  },
+  "180.76.6.53": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "74.208.180.23": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "IONOS Inc.",
+    "domain": "ionos.com"
+  },
+  "46.165.197.151": {
+    "abuse_score": 0,
+    "country": "DE",
+    "isp": "Leaseweb Deutschland GmbH",
+    "domain": "leaseweb.com"
+  },
+  "157.56.92.164": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "199.16.156.124": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Twitter, Inc.",
+    "domain": "twitter.com"
+  },
+  "180.76.6.57": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "195.250.34.144": {
+    "abuse_score": 0,
+    "country": "IT",
+    "isp": "Aruba Business S.R.L.",
+    "domain": "aruba.it"
+  },
+  "157.56.92.158": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "217.69.133.238": {
+    "abuse_score": 0,
+    "country": "RU",
+    "isp": "VK Services",
+    "domain": "mail.ru"
+  },
+  "180.76.5.22": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "123.125.71.116": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "YBV",
+    "domain": "baidu.com"
+  },
+  "220.181.108.149": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "CHINANET Beijing province network",
+    "domain": "bjtelecom.net"
+  },
+  "180.76.5.194": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "180.76.6.65": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "199.30.20.6": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corp",
+    "domain": "microsoft.com"
+  },
+  "157.55.32.106": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "220.181.108.178": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "CHINANET Beijing province network",
+    "domain": "bjtelecom.net"
+  },
+  "123.125.71.72": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "YBV",
+    "domain": "baidu.com"
+  },
+  "182.118.20.213": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "China Unicom Henan province network",
+    "domain": "chinaunicom.cn"
+  },
+  "207.241.237.103": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Internet Archive",
+    "domain": "archive.org"
+  },
+  "198.143.145.210": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Nodecraft Inc.",
+    "domain": "nodecraft.com"
+  },
+  "177.37.188.215": {
+    "abuse_score": 0,
+    "country": "BR",
+    "isp": "BRISANET SERVICOS DE TELECOMUNICACOES S.A",
+    "domain": "brisanet.com.br"
+  },
+  "180.76.6.142": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "180.76.5.20": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "94.242.255.188": {
+    "abuse_score": 0,
+    "country": "SG",
+    "isp": "root SA",
+    "domain": "root.lu"
+  },
+  "180.76.5.172": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "199.30.20.7": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corp",
+    "domain": "microsoft.com"
+  },
+  "157.56.229.247": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "180.76.6.52": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "144.76.137.226": {
+    "abuse_score": 0,
+    "country": "DE",
+    "isp": "Hetzner Online GmbH",
+    "domain": "hetzner.com"
+  },
+  "123.125.71.114": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "YBV",
+    "domain": "baidu.com"
+  },
+  "220.181.108.171": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "CHINANET Beijing province network",
+    "domain": "bjtelecom.net"
+  },
+  "178.255.215.71": {
+    "abuse_score": 0,
+    "country": "FR",
+    "isp": "DASSAULT SYSTEMES SE",
+    "domain": "3ds.com"
+  },
+  "157.55.35.45": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "180.76.5.144": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "69.171.237.10": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Facebook, Inc.",
+    "domain": "facebook.com"
+  },
+  "69.171.237.9": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Facebook, Inc.",
+    "domain": "facebook.com"
+  },
+  "180.153.236.122": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "CHINANET SHANGHAI PROVINCE NETWORK",
+    "domain": "chinatelecom.cn"
+  },
+  "180.76.6.150": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "157.55.32.109": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "46.28.105.80": {
+    "abuse_score": 0,
+    "country": "CZ",
+    "isp": "WEDOS hosting services",
+    "domain": "wedos.com"
+  },
+  "180.76.5.74": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "180.76.5.214": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "91.236.75.25": {
+    "abuse_score": 0,
+    "country": "PL",
+    "isp": "FHU Adnex",
+    "domain": "adnex.pl"
+  },
+  "199.102.67.16": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "SBA Edge, LLC",
+    "domain": "sbaedge.com"
+  },
+  "180.76.6.28": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "199.189.248.95": {
+    "abuse_score": 0,
+    "country": "BR",
+    "isp": "U.S. Marshals Service in accordance with the Final Order of Forfeiture",
+    "domain": "justice.gov"
+  },
+  "85.19.71.167": {
+    "abuse_score": 0,
+    "country": "NO",
+    "isp": "Telia Norge AS",
+    "domain": "telia.no"
+  },
+  "180.76.5.61": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "217.69.133.234": {
+    "abuse_score": 0,
+    "country": "RU",
+    "isp": "VK Services",
+    "domain": "mail.ru"
+  },
+  "199.30.20.161": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corp",
+    "domain": "microsoft.com"
+  },
+  "180.76.5.190": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "101.226.168.196": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "CHINANET SHANGHAI PROVINCE NETWORK",
+    "domain": "chinatelecom.cn"
+  },
+  "101.226.168.198": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "CHINANET SHANGHAI PROVINCE NETWORK",
+    "domain": "chinatelecom.cn"
+  },
+  "199.30.20.65": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corp",
+    "domain": "microsoft.com"
+  },
+  "157.56.93.154": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "180.76.6.54": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "188.207.200.116": {
+    "abuse_score": 0,
+    "country": "NL",
+    "isp": "KPN",
+    "domain": "kpn.com"
+  },
+  "188.35.22.24": {
+    "abuse_score": 0,
+    "country": "RU",
+    "isp": "BEIREL TELECOM ISP",
+    "domain": "beirel.ru"
+  },
+  "66.147.244.126": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Unified Layer",
+    "domain": "unifiedlayer.com"
+  },
+  "192.185.81.134": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "HostGator.com LLC",
+    "domain": "hostgator.com"
+  },
+  "157.56.93.40": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "216.14.208.102": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Successful Hosting",
+    "domain": "pricalduli.tk"
+  },
+  "180.76.5.204": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "81.169.144.135": {
+    "abuse_score": 88,
+    "country": "DE",
+    "isp": "STRATO AG",
+    "domain": "strato.de"
+  },
+  "157.55.33.44": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "157.56.229.184": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "157.55.35.36": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "180.76.6.233": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "180.76.5.173": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "190.250.238.82": {
+    "abuse_score": 0,
+    "country": "CO",
+    "isp": "UNE EPM TELECOMUNICACIONES S.A.",
+    "domain": "une.com.co"
+  },
+  "180.76.6.213": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "157.55.33.88": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "180.76.6.46": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "180.76.6.43": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "69.175.87.242": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Internap Holding LLC",
+    "domain": "horizoniq.com"
+  },
+  "217.69.133.236": {
+    "abuse_score": 0,
+    "country": "RU",
+    "isp": "VK Services",
+    "domain": "mail.ru"
+  },
+  "157.55.33.114": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "180.76.5.39": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "157.56.92.151": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "180.76.5.167": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "220.181.108.150": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "CHINANET Beijing province network",
+    "domain": "bjtelecom.net"
+  },
+  "180.76.6.232": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "157.55.32.185": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "123.125.71.97": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "YBV",
+    "domain": "baidu.com"
+  },
+  "180.76.5.196": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "117.28.234.67": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "Xiamen DongNanRongTong fujian province",
+    "domain": "fjtelecom.com"
+  },
+  "199.30.20.11": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corp",
+    "domain": "microsoft.com"
+  },
+  "157.56.92.141": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "54.246.137.243": {
+    "abuse_score": 0,
+    "country": "IE",
+    "isp": "Amazon Technologies Inc.",
+    "domain": "amazon.com"
+  },
+  "123.125.71.85": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "YBV",
+    "domain": "baidu.com"
+  },
+  "157.55.32.84": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "157.55.35.80": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "157.55.33.108": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "180.76.5.143": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "180.76.6.144": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "180.76.5.118": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "212.90.148.107": {
+    "abuse_score": 0,
+    "country": "DE",
+    "isp": "Network for goneo Internet GmbH",
+    "domain": "goneo.de"
+  },
+  "199.59.148.210": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Twitter Inc.",
+    "domain": "twitter.com"
+  },
+  "199.59.148.209": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Twitter Inc.",
+    "domain": "twitter.com"
+  },
+  "42.156.136.43": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "Zhejiang Taobao Network Co.,Ltd",
+    "domain": "taobao.com"
+  },
+  "67.215.172.14": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Webhosting.Net, Inc.",
+    "domain": "webhosting.net"
+  },
+  "199.116.117.212": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Performive LLC",
+    "domain": "performive.com"
+  },
+  "65.55.215.37": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "180.76.5.145": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "180.76.5.147": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "180.76.5.26": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "180.76.6.146": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "220.181.108.185": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "CHINANET Beijing province network",
+    "domain": "bjtelecom.net"
+  },
+  "180.76.5.98": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "81.52.143.33": {
+    "abuse_score": 0,
+    "country": "FR",
+    "isp": "France Telecom",
+    "domain": "orange.com"
+  },
+  "157.55.32.142": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "180.76.6.63": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "130.185.72.6": {
+    "abuse_score": 0,
+    "country": "IR",
+    "isp": "Pars Parva System LLC",
+    "domain": "parspack.com"
+  },
+  "180.76.5.81": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "199.30.20.8": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corp",
+    "domain": "microsoft.com"
+  },
+  "216.150.76.218": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Essential Services",
+    "domain": "coreitx.com"
+  },
+  "217.69.133.239": {
+    "abuse_score": 0,
+    "country": "RU",
+    "isp": "VK Services",
+    "domain": "mail.ru"
+  },
+  "66.249.74.55": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Google LLC",
+    "domain": "google.com"
+  },
+  "193.252.118.167": {
+    "abuse_score": 0,
+    "country": "FR",
+    "isp": "France Telecom",
+    "domain": "orange.com"
+  },
+  "192.185.83.181": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "HostGator.com LLC",
+    "domain": "hostgator.com"
+  },
+  "46.165.197.141": {
+    "abuse_score": 0,
+    "country": "DE",
+    "isp": "Leaseweb Deutschland GmbH",
+    "domain": "leaseweb.com"
+  },
+  "50.87.144.128": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "WEBSITEWELCOME.COM",
+    "domain": "websitewelcome.com"
+  },
+  "180.76.6.134": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "81.52.143.34": {
+    "abuse_score": 0,
+    "country": "FR",
+    "isp": "France Telecom",
+    "domain": "orange.com"
+  },
+  "180.153.236.175": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "CHINANET SHANGHAI PROVINCE NETWORK",
+    "domain": "chinatelecom.cn"
+  },
+  "180.76.5.152": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "217.26.210.20": {
+    "abuse_score": 0,
+    "country": "RS",
+    "isp": "Hosting & Cloud",
+    "domain": "cloudhosting.rs"
+  },
+  "74.208.16.115": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "IONOS Inc.",
+    "domain": "ionos.com"
+  },
+  "183.91.14.219": {
+    "abuse_score": 0,
+    "country": "VN",
+    "isp": "CMC Telecom Infrastructure Company",
+    "domain": "cmctelecom.vn"
+  },
+  "98.130.2.118": {
+    "abuse_score": 0,
+    "country": "IN",
+    "isp": "Amazon Data Services India",
+    "domain": "amazon.com"
+  },
+  "180.76.6.153": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "162.210.196.130": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Leaseweb USA, Inc.",
+    "domain": "leaseweb.com"
+  },
+  "62.24.122.25": {
+    "abuse_score": 0,
+    "country": "KE",
+    "isp": "Telkom Kenya Limited",
+    "domain": "telkom.co.ke"
+  },
+  "180.76.5.116": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "81.52.143.26": {
+    "abuse_score": 0,
+    "country": "FR",
+    "isp": "France Telecom",
+    "domain": "orange.com"
+  },
+  "129.121.176.228": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Oso Grande IP Services, LLC",
+    "domain": "asmallorange.com"
+  },
+  "204.244.74.22": {
+    "abuse_score": 0,
+    "country": "CA",
+    "isp": "Navigata Communications Limited",
+    "domain": "navigata.net"
+  },
+  "82.200.166.110": {
+    "abuse_score": 0,
+    "country": "KZ",
+    "isp": "JSC Kazakhtelecom",
+    "domain": "telecom.kz"
+  },
+  "50.7.50.90": {
+    "abuse_score": 0,
+    "country": "DE",
+    "isp": "FDCservers.net",
+    "domain": "fdcservers.net"
+  },
+  "63.249.66.212": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "FreeFind.com",
+    "domain": "freefind.com"
+  },
+  "180.76.5.213": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "5.9.143.150": {
+    "abuse_score": 0,
+    "country": "DE",
+    "isp": "Hetzner Online GmbH",
+    "domain": "hetzner.com"
+  },
+  "180.76.5.77": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "78.173.140.106": {
+    "abuse_score": 0,
+    "country": "TR",
+    "isp": "Turk Telekomunikasyon Anonim Sirketi",
+    "domain": "turktelekom.com.tr"
+  },
+  "24.111.34.227": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Midcontinent Communications",
+    "domain": "midco.com"
+  },
+  "95.78.54.93": {
+    "abuse_score": 0,
+    "country": "RU",
+    "isp": "CJSC Company Telemax Naberezhnye Chelny",
+    "domain": "dom.ru"
+  },
+  "198.245.61.43": {
+    "abuse_score": 0,
+    "country": "CA",
+    "isp": "OVH Hosting, Inc.",
+    "domain": "ovh.net"
+  },
+  "180.76.6.137": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "218.30.103.114": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "CHINANET IDC center",
+    "domain": "bjtelecom.net"
+  },
+  "180.76.6.17": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "183.60.244.24": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "CHINANET Guangdong province network",
+    "domain": "chinatelecom.cn"
+  },
+  "193.252.149.15": {
+    "abuse_score": 0,
+    "country": "FR",
+    "isp": "France Telecom",
+    "domain": "orange.com"
+  },
+  "180.76.6.51": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "204.236.226.210": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Amazon Data Services NoVa",
+    "domain": "amazon.com"
+  },
+  "220.181.108.162": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "CHINANET Beijing province network",
+    "domain": "bjtelecom.net"
+  },
+  "123.125.71.82": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "YBV",
+    "domain": "baidu.com"
+  },
+  "180.76.6.49": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "157.55.32.107": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "123.125.71.56": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "YBV",
+    "domain": "baidu.com"
+  },
+  "217.69.133.235": {
+    "abuse_score": 0,
+    "country": "RU",
+    "isp": "VK Services",
+    "domain": "mail.ru"
+  },
+  "199.30.20.30": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corp",
+    "domain": "microsoft.com"
+  },
+  "123.125.71.41": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "YBV",
+    "domain": "baidu.com"
+  },
+  "200.141.109.74": {
+    "abuse_score": 0,
+    "country": "BR",
+    "isp": "V tal",
+    "domain": "vtal.com"
+  },
+  "173.236.32.219": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Internap Holding LLC",
+    "domain": "internap.com"
+  },
+  "96.127.149.186": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Internap Holding LLC",
+    "domain": "horizoniq.com"
+  },
+  "188.165.243.45": {
+    "abuse_score": 0,
+    "country": "FR",
+    "isp": "OVH SAS",
+    "domain": "ovh.net"
+  },
+  "69.175.14.230": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Internap Holding LLC",
+    "domain": "internap.com"
+  },
+  "190.153.25.242": {
+    "abuse_score": 0,
+    "country": "VE",
+    "isp": "New Tech Solutions Group 2",
+    "domain": "netuno.net"
+  },
+  "157.55.33.19": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "162.213.42.132": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "ECSuite, LLC",
+    "domain": "ecsuite.com"
+  },
+  "131.107.160.94": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "157.55.34.93": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "216.107.155.114": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Nexeon Technologies, Inc.",
+    "domain": "nexeon.com"
+  },
+  "180.76.6.147": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "119.63.196.17": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Baidu Japan Inc.",
+    "domain": "baidu.jp"
+  },
+  "193.252.118.175": {
+    "abuse_score": 0,
+    "country": "FR",
+    "isp": "France Telecom",
+    "domain": "orange.com"
+  },
+  "199.30.20.64": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corp",
+    "domain": "microsoft.com"
+  },
+  "184.154.137.213": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Internap Holding LLC",
+    "domain": "internap.com"
+  },
+  "89.107.180.34": {
+    "abuse_score": 0,
+    "country": "ES",
+    "isp": "Banco Bilbao Vizcaya S.A.",
+    "domain": "bbva.com"
+  },
+  "157.55.35.114": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "157.55.33.15": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "95.108.158.230": {
+    "abuse_score": 0,
+    "country": "RU",
+    "isp": "YANDEX LLC",
+    "domain": "yandex.net"
+  },
+  "174.36.228.156": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "IBM Cloud",
+    "domain": "ibm.com"
+  },
+  "199.59.148.211": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Twitter Inc.",
+    "domain": "twitter.com"
+  },
+  "183.60.214.19": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "CHINANET Guangdong province network",
+    "domain": "chinatelecom.cn"
+  },
+  "65.55.52.94": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "5.10.83.105": {
+    "abuse_score": 0,
+    "country": "NL",
+    "isp": "IBM Cloud International B.V.",
+    "domain": "ibm.com"
+  },
+  "173.192.238.44": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "IBM Cloud",
+    "domain": "ibm.com"
+  },
+  "5.10.83.66": {
+    "abuse_score": 0,
+    "country": "NL",
+    "isp": "IBM Cloud International B.V.",
+    "domain": "ibm.com"
+  },
+  "5.10.83.30": {
+    "abuse_score": 0,
+    "country": "NL",
+    "isp": "IBM Cloud International B.V.",
+    "domain": "ibm.com"
+  },
+  "5.10.83.23": {
+    "abuse_score": 0,
+    "country": "NL",
+    "isp": "IBM Cloud International B.V.",
+    "domain": "ibm.com"
+  },
+  "5.10.83.98": {
+    "abuse_score": 0,
+    "country": "NL",
+    "isp": "IBM Cloud International B.V.",
+    "domain": "ibm.com"
+  },
+  "157.55.33.49": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "180.76.5.187": {
+    "abuse_score": 0,
+    "country": "JP",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "5.10.83.65": {
+    "abuse_score": 0,
+    "country": "NL",
+    "isp": "IBM Cloud International B.V.",
+    "domain": "ibm.com"
+  },
+  "5.10.83.82": {
+    "abuse_score": 0,
+    "country": "NL",
+    "isp": "IBM Cloud International B.V.",
+    "domain": "ibm.com"
+  },
+  "180.76.6.141": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "5.10.83.91": {
+    "abuse_score": 0,
+    "country": "NL",
+    "isp": "IBM Cloud International B.V.",
+    "domain": "ibm.com"
+  },
+  "183.60.215.50": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "CHINANET Guangdong province network",
+    "domain": "chinatelecom.cn"
+  },
+  "65.55.52.111": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "5.10.83.21": {
+    "abuse_score": 0,
+    "country": "NL",
+    "isp": "IBM Cloud International B.V.",
+    "domain": "ibm.com"
+  },
+  "157.56.92.142": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "5.10.83.73": {
+    "abuse_score": 0,
+    "country": "NL",
+    "isp": "IBM Cloud International B.V.",
+    "domain": "ibm.com"
+  },
+  "180.76.6.14": {
+    "abuse_score": 0,
+    "country": "CN",
+    "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com"
+  },
+  "157.55.33.183": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  },
+  "5.10.83.53": {
+    "abuse_score": 0,
+    "country": "NL",
+    "isp": "IBM Cloud International B.V.",
+    "domain": "ibm.com"
+  },
+  "157.55.33.17": {
+    "abuse_score": 0,
+    "country": "US",
+    "isp": "Microsoft Corporation",
+    "domain": "microsoft.com"
+  }
+}

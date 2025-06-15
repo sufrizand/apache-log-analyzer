@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Suspicious IP Report</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            font-size: 14px;
+        }
+        th, td {
+            border: 1px solid #aaa;
+            padding: 8px 12px;
+            text-align: center;
+        }
+        th {
+            background-color: #333;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: #f0f0f0;
+        }
+        .Agent {
+            background-color: #fff0b3;
+        }
+        .Behavior {
+            background-color: #ffd6cc;
+        }
+        .AgentAndBehavior {
+            background-color: #ff9999;
+        }
+    </style>
+</head>
+<body>
+    <h1>Suspicious IP Report</h1>
+    <p>Total suspicious IPs: {{ data | length }}</p>
+
+    <table>
+        <thead>
+            <tr>
+                <th>IP Address</th>
+                <th>Total Requests</th>
+                <th>401</th>
+                <th>403</th>
+                <th>404</th>
+                <th>Total Errors</th>
+                <th>Error Ratio</th>
+                <th>Request Method</th>
+                <th>First Seen</th>
+                <th>Last Seen</th>
+                <th>User Agents</th>
+                <th>Abuse Score</th>
+                <th>Country</th>
+                <th>ISP</th>
+                <th>Domain</th>
+                <th>Flag</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for row in data %}
+            {% set flag_class = row.flag.replace(' ', '').replace('&', 'And') %}
+            <tr class="{{ flag_class }}">
+                <td>{{ row.ip }}</td>
+                <td>{{ row.total }}</td>
+                <td>{{ row.code_401 }}</td>
+                <td>{{ row.code_403 }}</td>
+                <td>{{ row.code_404 }}</td>
+                <td>{{ row.errors }}</td>
+                <td>{{ row.error_ratio }}</td>
+                <td>{{ row.method }}</td>
+                <td>{{ row.first }}</td>
+                <td>{{ row.last }}</td>
+                <td>{{ row.agent }}</td>
+                <td>{{ row.abuse_score }}</td>
+                <td>{{ row.country }}</td>
+                <td>{{ row.isp }}</td>
+                <td>{{ row.domain }}</td>
+                <td>{{ row.flag }}</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+    <h2>Top 10 Suspicious IPs by Error Count</h2>
+    <img src="chart.png" alt="Error Chart" style="width:100%; max-width:700px; margin-top: 20px;">
+</body>
+</html>
